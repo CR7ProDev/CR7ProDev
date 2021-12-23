@@ -1,5 +1,5 @@
 <h1 align="center">A Professional Full-Stack and Blockchain Developer</h1>
-
+<center>
 <p>
   <a href="https://github.com/bbshark99/bbshark99" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=bbshark99&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
