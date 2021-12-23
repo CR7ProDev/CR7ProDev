@@ -44,6 +44,4 @@
 <div/>
 
 <br />
-
-![](https://komarev.com/ghpvc/?username=bbshark99&color=dc143c)
 ![Snake animation](https://github.com/yasssuz/yasssuz/blob/output/github-contribution-grid-snake.svg)
