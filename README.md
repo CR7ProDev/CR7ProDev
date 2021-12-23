@@ -22,7 +22,7 @@
 
 <br />
 
-## 📖 Languages
+## 📖 Skills
  
 <div align="left">
   <img src="https://img.shields.io/badge/Solidity-9E9E9E?style=for-the-badge&logo=solidity&logoColor=black">
