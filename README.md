@@ -51,22 +51,28 @@
 
 <hr>
 <br>
-<h4 align="center">🔥 Personal Qualities 🔥</h4>
+<h4 align="center">🔥 Personal Qualities and Service 🔥</h4>
 <hr>
 <br>
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" />
+✨ Personal Qualities<br>
 ⚡A clean responsive code that will be well displayed in any browser and adapted to any device of any resolution, be it a phone or a tablet, or a widescreen device.<br>
 ⚡Fast response and good communication skills.<br>
 ⚡well-organized/commented code.<br>
 ⚡SEO friendly, semantic markup, and load speed optimization.<br>
 ⚡Testing and cross-browser / cross-device compatibility.<br>
-<p>
-    🔭I am a responsible and purposeful person, I can easily interact with the development team, because I have experience working in a team, I can clearly follow the deadline without compromising the quality of the code.
-Close contact with you is very important for me, to avoid misunderstandings in the development process and to save time on the long end.
-Courage, It's not too late to build a better world.
-Alone we can do so little; together we can do so much.    
-</p>
+ ✨Service<br>
+⚡Full-time developer (40+ hours per week).<br>
+⚡Meet client requirements.<br>
+⚡Unique and creative designs.<br>
+⚡100% on-time delivery of the product.<br>
+⚡I can work in your time zone. So we will have good communication.<br>
+⚡Update the result every day.<br>
+⚡100% ongoing satisfaction with your project.<br>
+⚡Provide the result with high quality.<br>
+⚡Free Bug-Fix support for 2 months after completion.<br>
+
 </div>
 
 <hr/>
@@ -212,55 +218,5 @@ Alone we can do so little; together we can do so much.
 </p>
 <hr>
 <br>
-<h4 align="center">🔥 Stats 🔥</h4>
-<hr>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=webpointdev&theme=react&border=61dafb&hide_border=true" alt="webpointdev" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=webpointdev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webpointdev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  <br>
-  <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=webpointdev&theme=monokai"/>
-  </div>
-  
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=webpointdev&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
-  
-  <br>
-</p>
-<hr>
 
-## 📖 Skills
- 
-<div align="left">
-  <img src="https://img.shields.io/badge/Solidity-9E9E9E?style=for-the-badge&logo=solidity&logoColor=black">
-  <img src="https://img.shields.io/badge/Rust-CC342D?style=for-the-badge&logo=rust&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-430098?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<div/>
-
-<br />
-  
 ![Snake animation](https://github.com/yasssuz/yasssuz/blob/output/github-contribution-grid-snake.svg)
