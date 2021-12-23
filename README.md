@@ -1,8 +1,4 @@
-<h1 align="center">Hi, there! 👋</h1>
-
-<h3 align="center">🙏🙏🙏  Thanks for reaching out to me! 🙏🙏🙏 </h3>
-
-## 💪 Overview
+<h1 align="center">A Professional Full-Stack and Blockchain Developer</h1>
 
 <p>
   <a href="https://github.com/bbshark99/bbshark99" >
@@ -50,3 +46,12 @@
 <br />
 
 ![](https://komarev.com/ghpvc/?username=bbshark99&color=dc143c)
+  ## Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=yasssuz.todo-app)
+
+<div align="center">
+  <a href="https://github.com/yasssuz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasssuz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasssuz&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+![Snake animation](https://github.com/yasssuz/yasssuz/blob/output/github-contribution-grid-snake.svg)
